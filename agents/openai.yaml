@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Opportunity"
+  short_description: "Find and validate software opportunities"
+  default_prompt: "Use $product-opportunity to find or evaluate a small software opportunity for my skills, budget, and reachable first-customer channels."
+policy:
+  allow_implicit_invocation: true
