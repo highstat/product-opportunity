@@ -12,7 +12,7 @@ Paste this into a Codex task:
 
 ```text
 Use $skill-installer to install product-opportunity from repository
-https://github.com/sprensis/product-opportunity, using path . and the name
+https://github.com/highstat/product-opportunity, using path . and the name
 product-opportunity.
 ```
 
