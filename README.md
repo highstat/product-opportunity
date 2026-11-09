@@ -251,4 +251,4 @@ Installation reports, evidence-quality failures, unsafe recommendations, unclear
 
 ## License
 
-MIT License. Copyright © 2026 [sprensis](https://github.com/sprensis/). See [`LICENSE`](LICENSE).
+MIT License. Copyright © 2026 [highstat](https://github.com/highstat/). See [`LICENSE`](LICENSE).
